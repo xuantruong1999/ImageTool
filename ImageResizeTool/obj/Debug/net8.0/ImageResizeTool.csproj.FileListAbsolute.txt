@@ -1,0 +1,17 @@
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\bin\Debug\net8.0\ImageResizeTool.exe
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\bin\Debug\net8.0\ImageResizeTool.deps.json
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\bin\Debug\net8.0\ImageResizeTool.runtimeconfig.json
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\bin\Debug\net8.0\ImageResizeTool.dll
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\bin\Debug\net8.0\ImageResizeTool.pdb
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\obj\Debug\net8.0\ImageResizeTool.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\obj\Debug\net8.0\ImageResizeTool.AssemblyInfoInputs.cache
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\obj\Debug\net8.0\ImageResizeTool.AssemblyInfo.cs
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\obj\Debug\net8.0\ImageResizeTool.csproj.CoreCompileInputs.cache
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\obj\Debug\net8.0\ImageResizeTool.dll
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\obj\Debug\net8.0\refint\ImageResizeTool.dll
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\obj\Debug\net8.0\ImageResizeTool.pdb
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\obj\Debug\net8.0\ImageResizeTool.genruntimeconfig.cache
+c:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\obj\Debug\net8.0\ref\ImageResizeTool.dll
+C:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\obj\Debug\net8.0\ImageResizeTool.csproj.AssemblyReference.cache
+C:\Users\Truong\source\repos\ImageResizeTool\ImageResizeTool\obj\Debug\net8.0\ImageResizeTool.csproj.CopyComplete

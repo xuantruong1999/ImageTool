@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pxqITF8JrjdAa1OeY7kKr6zSHcKiEkiCB7f2b7r79DKEFpzlHjo3cg5XP6x4NDnPOBRMyvyeSpyYSWpMf03zuQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Truong\\source\\repos\\ImageResizeTool\\ImageResizeTool\\ImageResizeTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Truong\\.nuget\\packages\\sixlabors.imagesharp\\3.1.5\\sixlabors.imagesharp.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
