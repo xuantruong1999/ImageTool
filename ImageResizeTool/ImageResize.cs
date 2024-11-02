@@ -74,6 +74,10 @@ public class ImageResize
                             Quality = quality
                         };
 
+                        if (!Directory.Exists(targetPath))
+                        {
+                            Directory.CreateDirectory(targetPath);
+                        }
                         var targetFilePath = Path.Combine(targetPath, Path.GetFileName(file));
                         image.Save(targetFilePath, encoder);
 
